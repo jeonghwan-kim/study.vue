@@ -1,0 +1,14 @@
+{
+  "name": "''",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "file:vue"
+  }
+}
